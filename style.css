@@ -18,8 +18,8 @@ body {
 
 .container {
     position: relative;
-    width: 50vw;
-    height: 75vh;
+    width: 75vmin;
+    height: 75vmin;
     display: flex;
     justify-content: space-between;
     gap: 10px;
